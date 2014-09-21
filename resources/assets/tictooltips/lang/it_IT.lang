@@ -63,3 +63,7 @@ tictooltips.mining.level==Livello di estrazione:
 tictooltips.usage.speed=Velocità dell'uso: 
 tictooltips.modifiers=Modificatori
 tictooltips.modifiers.remaining=Modificatori rimanenti: 
+tictooltips.unbreakable=Indistruttibile
+tictooltips.reinforced=Rinforzato
+tictooltips.jagged=Seghettato
+tictooltips.stonebound=Roccioso
